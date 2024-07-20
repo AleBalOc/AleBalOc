@@ -1,4 +1,4 @@
-<img src="portada.png">
+<img src="Portada GitHub.png">
 - 👋 Hola soy @AleBalOc
 - 👀 Estoy interesada en Tecnología Educativa
 - 🌱 Actualmente estoy aprendiendo sobre AI
